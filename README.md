@@ -1,3 +1,5 @@
-# isp-project-team-rhythm
+# Team RHYTHM
 
-Please click on test_run.py to find the code for our song :)
+test_run.py contain the code for our generated song :)
+
+Our project requires Sonic Pi, a live coding environment.
